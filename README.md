@@ -1,8 +1,8 @@
-# What Breaks When You Quantize On-Device TTS?
+# Same Bit Width, Different Outcomes
 
-### A Cross-Architecture Study of Post-Training Quantization
+### Post-Training Quantization of Text-to-Speech Across Architectures
 
-Code repository for the paper *"What Breaks When You Quantize On-Device TTS? A Cross-Architecture Study of Post-Training Quantization,"* submitted to **ICASSP 2027**.
+Code repository for the paper *"Same Bit Width, Different Outcomes: Post-Training Quantization of Text-to-Speech Across Architectures,"* submitted to **ICASSP 2027**.
 
 ## Overview
 
